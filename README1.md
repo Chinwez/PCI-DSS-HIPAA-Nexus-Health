@@ -166,15 +166,25 @@ PCI-DSS-HIPAA-Nexus-Health/
 
 
 │
+
 ├── README.md
+
 ├── 01-Business-Scope/
+
 ├── 02-Compliance-Scope/
+
 ├── 03-Risk-Assessment/
+
 ├── 04-Control-Mapping/
+
 ├── 05-Evidence-Plan/
+
 ├── 06-Remediation/
+
 ├── 07-Management-Reporting/
+
 └── docs/
+
 
 💡 Key Takeaway
 This project demonstrates that GRC is not just about asking:
