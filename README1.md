@@ -23,6 +23,7 @@ Repository Structure
 Key Takeaway
 
 Disclaimer
+
 This project showcases how I approach Governance, Risk & Compliance (GRC) in a real-world healthcare scenario—bringing together business understanding, regulatory interpretation, risk analysis and practical remediation planning.
 
 Nexus Health Services is a fictional multi-site healthcare organisation that processes both payment-card data and PHI/ePHI, creating a complex compliance landscape across hospitals, clinics, diagnostic systems, billing platforms and an online patient portal.
