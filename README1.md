@@ -1,4 +1,27 @@
 PCI DSS & HIPAA GRC Assessment – Nexus Health Services (Portfolio Project)
+#This project delivers a concise GRC assessment of a fictional healthcare organisation, focusing on how PCI DSS and HIPAA requirements shape business scope, data flows, risks and controls. It highlights my ability to map sensitive information, identify high‑impact risks, evaluate regulatory obligations and build a clear, evidence‑driven remediation plan. This serves as a practical portfolio example of how I approach real‑world GRC challenges with a focus on risk reduction, compliance accuracy and operational governance.
+#Table of Contents
+Project Overview
+
+Business & Data Mapping
+
+Compliance Scope
+
+Key Risk Scenarios
+
+Evidence Management
+
+Risk-Based Remediation Roadmap
+
+Executive Management Summary
+
+Skills Demonstrated
+
+Repository Structure
+
+Key Takeaway
+
+Disclaimer
 This project showcases how I approach Governance, Risk & Compliance (GRC) in a real-world healthcare scenario—bringing together business understanding, regulatory interpretation, risk analysis and practical remediation planning.
 
 Nexus Health Services is a fictional multi-site healthcare organisation that processes both payment-card data and PHI/ePHI, creating a complex compliance landscape across hospitals, clinics, diagnostic systems, billing platforms and an online patient portal.
